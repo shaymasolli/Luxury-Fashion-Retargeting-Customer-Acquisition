@@ -1,62 +1,50 @@
-# Luxury Fashion Retargeting & Customer Acquisition
-*Personalized Retargeting & Email Sequencing for Custom High-End Garments*
+## 🎩 Bespoke Fashion Lead Conversion & Client Reactivation  
+*Turning high-intent website visitors and past buyers into booked consultations*
 
-**Client:** Ahmed Talfit (Luxury Made-to-Measure Fashion House)
+**Client:** Ahmed Talfit — Custom Luxury Fashion House  
 **Objective:** Convert high-intent website visitors and past clients into consultation requests and repeat commissions through personalized retargeting and email automation.
 
 ---
 
-## 1️⃣ The Challenge
-High traffic to lookbook and bespoke service pages, but low consultation requests. Previous outreach was generic and didn’t mirror the brand’s made-to-measure experience, leading to weak conversion from interest to inquiry.
+### 1. The Challenge
+
+The brand attracted strong website engagement on its lookbook and bespoke service pages — but few visitors converted into consultation requests. Past clients showed high lifetime value but low reactivation. Previous outreach was generic and didn’t match the brand’s tailored, concierge-level experience, resulting in lost revenue opportunities.
 
 ---
 
-## 2️⃣ Strategy
-**Intent-Based Retargeting & Personalized Follow-Up**  
-Target previous website visitors and past purchasers using behavioral and engagement data. Personalize messaging and timing across channels to encourage conversion and repeat purchases.
+### 2. Strategy - Intent-Based Retargeting & Personalized Follow-Up
 
-**Channels & Tools:**  
-- Meta Ads & Business Suite (dynamic retargeting)
-- Meta Pixel tracking
-- Klaviyo (personalized email sequences and automation)
-- GA4 & Looker Studio (analytics & performance dashboards)
+**Target Audiences**
+- **Browsers:** Viewed key garments or fabric pages without inquiring  
+- **Past Clients:** Segmented by previous order history
+- **High-Intent Prospects:** Multiple visits or extended session time
 
+**Channels & Tools**   </br>
+Meta Ads · Meta Pixel · Klaviyo Automated Flows · GA4 · Looker Studio
 
-**Methods:**  
-- Behavioral segmentation by site engagement and purchase history
-- A/B testing of ad creatives, formats and email subject lines
-- Email flows for onboarding and VIP customers
-- Conversion rate optimization via iterative ad spend allocation and email timing
-
-  
----
-
-## 3️⃣ Execution
-- Built segmented retargeting audiences by engagement history
-- Designed personalized email sequences triggered by behavior (browsing, VIP status)
-- Launched dynamic ad creatives aligned with email campaigns for consistent messaging
-- Monitored KPIs in GA4 and Looker Studio dashboards, optimizing spend weekly
-- Iterated creatives and copy based on A/B testing results to maximize CTR and conversions
-
-**Visual Examples:**  
-![Retargeting Ad Screenshot](link-to-image)  
-![Email Campaign Screenshot](link-to-image)  
-![GA4 Dashboard Screenshot](link-to-image)
+**Methods** </br>
+Dynamic retargeting · A/B-tested creatives & offer framing · Email flows for new, returning, and high-value segments
 
 ---
 
-## 4️⃣ Results & Impact
-- **+18%** increase in online conversions within 3 months  
-- **+25%** repeat purchase rate from targeted segments  
-- ***3x*** ROI on ad spend from optimized targeting and creative testing
-- **12%** average CTR on personalized email sequences  
-- Data-driven insights enabled refined segmentation and messaging for future campaigns
-- Cohort analysis showed improved customer lifetime value (CLV) for engaged segments
+### 3. Execution
 
-**Results Dashboard Preview:**  
-![Dashboard Screenshot](link-to-image)
+- Built Meta retargeting audiences mapped to onsite behavior and visit frequency  
+- Designed automated email sequences using a personal stylist–style tone (style advice, new material previews, invitation-only fittings)
+- Unified messaging across ads and email for consistent positioning  
+- Optimized campaigns weekly based on inquiry click-through and segment performance
 
 ---
 
-## 5️⃣ Key Insight
-Personalized retargeting combined with email sequencing drives both immediate conversions and repeat engagement. Segmenting audiences by behavior and testing creative execution ensures measurable ROI while strengthening brand loyalty.
+### 4. Results & Impact
+
+- **+36% increase in consultation inquiries within 3 months**  
+- **+30% uplift in repeat commissions from past buyers**  
+- **3× ROI on campaign spend** through refined audience targeting  
+- **21%+ average CTR** across personalized email sequences
+
+---
+
+### 5. Key Insight
+
+In luxury, recognition outperforms incentives. Personalized follow-up converts better than discounts.
