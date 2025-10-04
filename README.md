@@ -1,18 +1,18 @@
 # Luxury Fashion Retargeting & Customer Acquisition
-*Retargeting & Email Marketing Campaign – B2C High-End Fashion Brand*
+*Personalized Retargeting & Email Sequencing for Custom High-End Garments*
 
-**Client:** Luxury fashion brand - Ahmed Talfit  
-**Objective:** Increase conversion rates, repeat engagement, and ROI through personalized retargeting and email marketing.
+**Client:** Ahmed Talfit (Luxury Made-to-Measure Fashion House)
+**Objective:** Convert high-intent website visitors and past clients into consultation requests and repeat commissions through personalized retargeting and email automation.
 
 ---
 
 ## 1️⃣ The Challenge
-High website traffic but low conversion rates and weak repeat purchase behavior. Previous campaigns were generic, underutilized behavioral data, and lacked integrated ad and email sequences, limiting overall ROI and customer lifetime value.
+High traffic to lookbook and bespoke service pages, but low consultation requests. Previous outreach was generic and didn’t mirror the brand’s made-to-measure experience, leading to weak conversion from interest to inquiry.
 
 ---
 
 ## 2️⃣ Strategy
-**Audience Segmentation & Personalization**  
+**Intent-Based Retargeting & Personalized Follow-Up**  
 Target previous website visitors and past purchasers using behavioral and engagement data. Personalize messaging and timing across channels to encourage conversion and repeat purchases.
 
 **Channels & Tools:**  
