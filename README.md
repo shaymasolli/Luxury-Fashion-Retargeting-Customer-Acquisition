@@ -1,4 +1,4 @@
-## 🎩 Bespoke Fashion Lead Conversion & Client Reactivation  
+## 🎩 Bespoke Fashion Lead Conversion & Client Reactivation
 *Turning high-intent website visitors and past buyers into booked consultations*
 
 **Client:** Ahmed Talfit — Custom Luxury Fashion House  
