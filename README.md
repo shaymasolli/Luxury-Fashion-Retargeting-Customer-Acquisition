@@ -39,7 +39,7 @@ Dynamic retargeting · A/B-tested creatives & offer framing · Email flows for n
 ### Email Automation Flow
 <p align="center">
 <em>Automated Klaviyo sequence used to nurture high-intent subscribers and re-engage past clients. Each stage reflects a tailored touchpoint in the luxury client journey.</em><br>
-<img src="email_flow_automation.png" alt="Klaviyo Email Flow Screenshot" style="width:80%; height:80%;" />
+<img src="email_flow_automation.png" alt="Klaviyo Email Flow Screenshot" style="width:50%; height:50%;" />
 </p>
 
 ---
@@ -57,7 +57,7 @@ Dynamic retargeting · A/B-tested creatives & offer framing · Email flows for n
 
 <p align="center">
 <em>Looker Studio dashboard highlighting traffic sources and user engagement events — reflecting consultation growth and reactivation performance over the campaign period.</em><br>
-<img src="performance_dashboard.png" alt="Looker Studio Campaign Results Dashboard" style="width:80%; height:80%;" />
+<img src="performance_dashboard.png" alt="Looker Studio Campaign Results Dashboard" />
 </p>
 
 ---
