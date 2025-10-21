@@ -53,13 +53,12 @@ Dynamic retargeting · A/B-tested creatives & offer framing · Email flows for n
 
 ---
 
-### Looker Studio Campaign Results Dashboard
+### Campaign Performance Insights
 
   <p align="center">
-<em>Looker Studio dashboard highlighting traffic sources and engagement events — reflecting consultation growth and client reactivation performance between April and June 2025. Data derived from Locker Studio.</em><br>
+<em>Looker Studio dashboard visualizing key traffic sources, engagement patterns and conversion activity. Highlights the uplift in consultation bookings and client reactivations achieved through retargeting and automation (April–June 2024) </em><br>
 <img src="performance_dashboard.png" alt="Looker Studio Campaign Results Dashboard" />
 </p>
-
 
 ---
 
