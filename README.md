@@ -56,7 +56,7 @@ Dynamic retargeting · A/B-tested creatives & offer framing · Email flows for n
 ### Campaign Performance Insights
 
   <p align="center">
-<em>Looker Studio dashboard visualizing key traffic sources, engagement patterns and conversion activity. Highlights the uplift in consultation bookings and client reactivations achieved through retargeting and automation (April–June 2024) </em><br>
+<em>Looker Studio dashboard visualizing key traffic sources, engagement patterns and conversion activity. Highlights the uplift in consultation bookings and client reactivations achieved through personalized retargeting and automated follow-ups. </em><br>
 <img src="performance_dashboard.png" alt="Looker Studio Campaign Results Dashboard" />
 </p>
 
