@@ -39,7 +39,7 @@ Dynamic retargeting · A/B-tested creatives & offer framing · Email flows for n
 ### Email Automation Flow
 <p align="center">
 <em>Automated Klaviyo sequence used to nurture high-intent subscribers and re-engage past clients. Each stage reflects a tailored touchpoint in the luxury client journey.</em><br>
-<img src="email_flow_automation.png" alt="Klaviyo Email Flow Screenshot" style="width:50%; height:50%;" />
+<img src="email_flow_automation.png" alt="Klaviyo Email Flow Screenshot" style="width:60%; height:60%;" />
 </p>
 
 ---
